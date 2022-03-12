@@ -1,0 +1,3 @@
+This directory contains the code used by Gaier and Ha in their research (the full code, documentation and paper can be found on their own repository: https://github.com/google/brain-tokyo-workshop).    
+
+In order to evaluate the evolving networks on EMNIST 10Letters (a 10-class subset of the EMNIST Letters dataset) and to calculate their accuracy, we have modified the code in a few key places: `classify_gym.py` and `make_env.py` in the `domain/` folder, `task.py` and `ind.py` from the `wann_src/` folder and `wann_test.py`. The changes are denoted with comments.    
