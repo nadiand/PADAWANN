@@ -1,9 +1,9 @@
 # Pruning-Attained Domain- And Weight-Agnostic Neural Networks
 
-This repository presents the code used to produce the results for the creation of the PADAWANNs, described in the paper "Combining Knowledge From Pre-trained Networks With Weight-Agnosticism To Evolve Transferable Models". 
+This repository presents the code used to produce the results for the creation of the PADAWANNs, described in the paper "Combining Knowledge From Pre-trained Networks And Weight-Agnosticism For Evolving Transferable Models". 
 
 ## Dependencies   
-The code runs on python and a few libraries:   
+The code needs python (it was run on Python 3.9.7) and a few libraries:   
 `pip install np`   
 `pip install torch`   
 `pip install torchvision`   
